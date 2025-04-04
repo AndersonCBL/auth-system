@@ -78,7 +78,7 @@ Execute os seguintes comandos no terminal, na ordem apresentada:
 
 ```bash
 # Clone o repositório
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/AndersonCBL/auth-system.git
 cd laravel-auth-test
 
 # Instale as dependências do Composer
